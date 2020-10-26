@@ -1,0 +1,10 @@
+.header{
+     height: 1.875rem;
+     width: 60vw;
+     background-color: #ccc;
+}
+.banner{
+    height: 3.125rem;
+    width: 100vW;
+    background-color: blue;
+}
